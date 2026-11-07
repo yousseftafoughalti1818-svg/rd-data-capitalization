@@ -1,0 +1,13 @@
+alias,property,unit
+viscosité 1h,viscosite_1h,mPa.s
+viscosite 1h,viscosite_1h,mPa.s
+visco 1h,viscosite_1h,mPa.s
+viscosité 24h,viscosite_24h,mPa.s
+viscosite 24h,viscosite_24h,mPa.s
+visco 24h,viscosite_24h,mPa.s
+dureté shore a,durete_shore_a,ShoreA
+durete shore a,durete_shore_a,ShoreA
+shore a,durete_shore_a,ShoreA
+stabilité thermique,stabilite_thermique,min
+stabilite thermique,stabilite_thermique,min
+temps de stabilité,stabilite_thermique,min

@@ -1,0 +1,6 @@
+property,min,max,unit
+viscosite_1h,500,20000,mPa.s
+viscosite_24h,500,30000,mPa.s
+durete_shore_a,30,100,ShoreA
+stabilite_thermique,1,180,min
+gel_temperature_c,120,250,°C

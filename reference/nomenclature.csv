@@ -1,0 +1,17 @@
+alias,canonical_name,component_type
+résine pvc pâte,PVC_PATE,resine
+resine pvc pate,PVC_PATE,resine
+pvc pâte,PVC_PATE,resine
+pvc,PVC_PATE,resine
+dinp,DINP,plastifiant
+plastifiant dinp,DINP,plastifiant
+di-isononyl phtalate,DINP,plastifiant
+dotp,DOTP,plastifiant
+plastifiant dotp,DOTP,plastifiant
+dinch,DINCH,plastifiant
+stabilisant ca/zn,STAB_CAZN,stabilisant
+stab ca/zn,STAB_CAZN,stabilisant
+ca/zn,STAB_CAZN,stabilisant
+caco3,CACO3,charge
+carbonate de calcium,CACO3,charge
+charge caco3,CACO3,charge
